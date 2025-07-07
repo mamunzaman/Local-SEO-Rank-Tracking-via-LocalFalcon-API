@@ -1,0 +1,383 @@
+[2024-04-21 21:02:20] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:02:20] Opt-In request check before execute:
+[2024-04-21 21:02:35] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:02:35] Opt-In request check before execute:
+[2024-04-21 21:02:52] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:02:52] Opt-In request check before execute:
+[2024-04-21 21:02:52] Requested Exec(): /usr/bin/php /home/u893471898/domains/itconsultingfirma.com/public_html/maptest/maptest/ProcessRequest.php '278' 'de' https://itconsultingfirma.com/maptest/
+[2024-04-21 21:03:31] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:03:31] Opt-In request check before execute:
+[2024-04-21 21:03:31] Requested Exec(): /usr/bin/php /home/u893471898/domains/itconsultingfirma.com/public_html/maptest/ProcessRequest.php '278' 'de' https://itconsultingfirma.com/maptest/
+[2024-04-21 21:03:31] Start Logger ProcessRequest.php
+[2024-04-21 21:03:31] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:03:31] Generated user falcon file name: falconPlace_g91nkl.json
+[2024-04-21 21:03:31] falconPlaceFullGridSearch() found and genarate data.
+[2024-04-21 21:03:31] Find Requested Basic Data: stdClass Object
+(
+    [place_id] => ChIJVb4Iw9SFZEERZ7tQjdFjIWE
+    [lat] => 53.0826878
+    [lng] => 8.813533
+    [name] => BURGER KING Deutschland GmbH
+    [address] => Bahnhofspl. 15 - 16, 28195 Bremen, Germany
+    [sab] => 
+    [map_link] => https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x416485d4c308be55:0x612163d18d50bb67
+    [rating] => 3.2
+    [reviews] => 1171
+)
+
+[2024-04-21 21:03:31] Find Requested Basic Data: Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 278
+            [email] => mcpmbstu@gmail.com
+            [user_info] => a:17:{s:22:"mm_google_company_name";s:28:"BURGER KING Deutschland GmbH";s:14:"mm_primary_cat";s:10:"restaurant";s:10:"mm_web_url";s:61:"https://www.burgerking.de/store-locator/store/restaurant_8947";s:11:"mm_phone_no";s:13:"0421 16899073";s:20:"bigin_street_address";s:13:"Bahnhofsplatz";s:10:"bigin_city";s:6:"Bremen";s:11:"bigin_state";s:6:"Bremen";s:13:"bigin_country";s:11:"Deutschland";s:17:"bigin_postal_code";s:5:"28195";s:15:"mm_select_title";s:4:"Herr";s:6:"mm_gmb";s:0:"";s:11:"mm_nachname";s:5:"Noman";s:8:"mm_email";s:18:"mcpmbstu@gmail.com";s:15:"mm_autocomplete";s:60:"BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany";s:10:"mm_keyword";s:4:"Food";s:6:"submit";s:0:"";s:7:"address";s:46:"Bahnhofspl. 15 - 16, 28195 Bremen, Deutschland";}
+            [request_address] => BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany
+            [place_id] => ChIJVb4Iw9SFZEERZ7tQjdFjIWE
+            [falcon_place_return] => O:8:"stdClass":9:{s:8:"place_id";s:27:"ChIJVb4Iw9SFZEERZ7tQjdFjIWE";s:3:"lat";d:53.082687799999995;s:3:"lng";d:8.813533;s:4:"name";s:28:"BURGER KING Deutschland GmbH";s:7:"address";s:42:"Bahnhofspl. 15 - 16, 28195 Bremen, Germany";s:3:"sab";b:0;s:8:"map_link";s:95:"https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x416485d4c308be55:0x612163d18d50bb67";s:6:"rating";s:3:"3.2";s:7:"reviews";i:1171;}
+            [lat_lng] => a:1:{i:0;a:2:{s:3:"lat";s:8:"53.08269";s:3:"lng";s:7:"8.81353";}}
+            [file_name] => falconPlace_g91nkl.json
+            [genareted_image] => generated_image/phantom_wcpa9j_falconPlace_g91nkl.png
+            [token] => c6e45846672fc4736c89117e29e40c43
+            [count] => 0
+            [status] => 0
+            [created] => 2024-04-21 19:58:45
+        )
+
+)
+
+[2024-04-21 21:03:31] Find Requested Basic Data: Array
+(
+    [url] => https://itconsultingfirma.com/maptest/genarate_map.php/?path=dataset&falcon_file_name=falconPlace_g91nkl.json&lat=53.08269&lng=8.81353&requested_json=phantom_cwj6ub_falconPlace_g91nkl.json
+    [clearCache] => 1
+    [renderType] => png
+    [zoomFactor] => 1
+    [resourceWait] => 15000
+    [resourceTimeout] => 35000
+    [maxWait] => 35000
+    [ioWait] => 2000
+    [waitInterval] => 1000
+    [overseerScript] => await page.waitForNavigation('domcontentloaded'); page.done()
+    [renderSettings] => Array
+        (
+            [quality] => 100
+            [viewport] => Array
+                (
+                    [height] => 670
+                    [width] => 640
+                )
+
+        )
+
+)
+
+[2024-04-21 21:03:31] PHANTOMJS JSON REQUEST URL: phantom_request/phantom_cwj6ub_falconPlace_g91nkl.json
+[2024-04-21 21:03:34] Generated Image has been deleted successfully: 1
+[2024-04-21 21:03:34] Generated Image has been deleted successfully: 1
+[2024-04-21 21:03:34] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:03:34] Again check if requested user exists: Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 278
+            [email] => mcpmbstu@gmail.com
+            [user_info] => a:17:{s:22:"mm_google_company_name";s:28:"BURGER KING Deutschland GmbH";s:14:"mm_primary_cat";s:10:"restaurant";s:10:"mm_web_url";s:61:"https://www.burgerking.de/store-locator/store/restaurant_8947";s:11:"mm_phone_no";s:13:"0421 16899073";s:20:"bigin_street_address";s:13:"Bahnhofsplatz";s:10:"bigin_city";s:6:"Bremen";s:11:"bigin_state";s:6:"Bremen";s:13:"bigin_country";s:11:"Deutschland";s:17:"bigin_postal_code";s:5:"28195";s:15:"mm_select_title";s:4:"Herr";s:6:"mm_gmb";s:0:"";s:11:"mm_nachname";s:5:"Noman";s:8:"mm_email";s:18:"mcpmbstu@gmail.com";s:15:"mm_autocomplete";s:60:"BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany";s:10:"mm_keyword";s:4:"Food";s:6:"submit";s:0:"";s:7:"address";s:46:"Bahnhofspl. 15 - 16, 28195 Bremen, Deutschland";}
+            [request_address] => BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany
+            [place_id] => ChIJVb4Iw9SFZEERZ7tQjdFjIWE
+            [falcon_place_return] => O:8:"stdClass":9:{s:8:"place_id";s:27:"ChIJVb4Iw9SFZEERZ7tQjdFjIWE";s:3:"lat";d:53.082687799999995;s:3:"lng";d:8.813533;s:4:"name";s:28:"BURGER KING Deutschland GmbH";s:7:"address";s:42:"Bahnhofspl. 15 - 16, 28195 Bremen, Germany";s:3:"sab";b:0;s:8:"map_link";s:95:"https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x416485d4c308be55:0x612163d18d50bb67";s:6:"rating";s:3:"3.2";s:7:"reviews";i:1171;}
+            [lat_lng] => a:1:{i:0;a:2:{s:3:"lat";s:8:"53.08269";s:3:"lng";s:7:"8.81353";}}
+            [file_name] => falconPlace_g91nkl.json
+            [genareted_image] => generated_image/phantom_wcpa9j_falconPlace_g91nkl.png
+            [token] => c6e45846672fc4736c89117e29e40c43
+            [count] => 0
+            [status] => 0
+            [created] => 2024-04-21 19:58:45
+        )
+
+)
+
+[2024-04-21 21:03:34] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:03:34] Update the genarated Image column after PhantomJS execution: generated_image/phantom_cwj6ub_falconPlace_g91nkl.png
+[2024-04-21 21:03:35] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:03:35] Updated Status
+[2024-04-21 21:03:35] Message has been sent
+[2024-04-21 21:03:35] File exists!: FOUND FILE: 1
+[2024-04-21 21:03:36] BIGIN Return data (MODE): Accounts < - > stdClass Object
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [code] => SUCCESS
+                    [details] => stdClass Object
+                        (
+                            [Modified_Time] => 2024-04-21T23:03:36+02:00
+                            [Modified_By] => stdClass Object
+                                (
+                                    [name] => info
+                                    [id] => 611448000000360001
+                                )
+
+                            [Created_Time] => 2024-04-21T23:03:36+02:00
+                            [id] => 611448000000720056
+                            [Created_By] => stdClass Object
+                                (
+                                    [name] => info
+                                    [id] => 611448000000360001
+                                )
+
+                            [$approval_state] => approved
+                        )
+
+                    [message] => record added
+                    [status] => success
+                )
+
+        )
+
+)
+
+[2024-04-21 21:03:36] BIGIN COMPANY ACCOUNT DATA INSERTED: 611448000000720056
+[2024-04-21 21:03:36] BIGIN Add Compan Information: SUCCESS
+[2024-04-21 21:03:36] BIGIN Return data (MODE): Contacts < - > stdClass Object
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [code] => SUCCESS
+                    [details] => stdClass Object
+                        (
+                            [Modified_Time] => 2024-04-21T23:03:36+02:00
+                            [Modified_By] => stdClass Object
+                                (
+                                    [name] => info
+                                    [id] => 611448000000360001
+                                )
+
+                            [Created_Time] => 2024-04-21T23:03:36+02:00
+                            [id] => 611448000000719090
+                            [Created_By] => stdClass Object
+                                (
+                                    [name] => info
+                                    [id] => 611448000000360001
+                                )
+
+                            [$approval_state] => approved
+                        )
+
+                    [message] => record added
+                    [status] => success
+                )
+
+            [1] => stdClass Object
+                (
+                    [code] => MANDATORY_NOT_FOUND
+                    [details] => stdClass Object
+                        (
+                            [api_name] => Last_Name
+                            [json_path] => $.data[1].Last_Name
+                        )
+
+                    [message] => required field not found
+                    [status] => error
+                )
+
+        )
+
+)
+
+[2024-04-21 21:03:36] BIGIN DATA INSERTED: 611448000000719090
+[2024-04-21 21:03:36] BIGIN Add Contact Information if no Company exists: SUCCESS
+[2024-04-21 21:03:36] Database Status updated and changes to 1
+[2024-04-21 21:05:54] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:05:54] Opt-In request check before execute:
+[2024-04-21 21:21:58] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:21:58] Opt-In request check before execute:
+[2024-04-21 21:21:58] Requested Exec(): /usr/bin/php /home/u893471898/domains/itconsultingfirma.com/public_html/maptest/ProcessRequest.php '278' 'de' https://itconsultingfirma.com/maptest/
+[2024-04-21 21:22:56] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:22:56] Opt-In request check before execute:
+[2024-04-21 21:22:56] Requested Exec(): /usr/bin/php /home/u893471898/domains/itconsultingfirma.com/public_html/maptest/ProcessRequest.php '278' 'de' https://itconsultingfirma.com/maptest/
+[2024-04-21 21:22:56] Start Logger ProcessRequest.php
+[2024-04-21 21:22:56] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:22:56] Generated user falcon file name: falconPlace_g91nkl.json
+[2024-04-21 21:22:56] falconPlaceFullGridSearch() found and genarate data.
+[2024-04-21 21:22:56] Find Requested Basic Data: stdClass Object
+(
+    [place_id] => ChIJVb4Iw9SFZEERZ7tQjdFjIWE
+    [lat] => 53.0826878
+    [lng] => 8.813533
+    [name] => BURGER KING Deutschland GmbH
+    [address] => Bahnhofspl. 15 - 16, 28195 Bremen, Germany
+    [sab] => 
+    [map_link] => https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x416485d4c308be55:0x612163d18d50bb67
+    [rating] => 3.2
+    [reviews] => 1171
+)
+
+[2024-04-21 21:22:56] Find Requested Basic Data: Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 278
+            [email] => mcpmbstu@gmail.com
+            [user_info] => a:17:{s:22:"mm_google_company_name";s:28:"BURGER KING Deutschland GmbH";s:14:"mm_primary_cat";s:10:"restaurant";s:10:"mm_web_url";s:61:"https://www.burgerking.de/store-locator/store/restaurant_8947";s:11:"mm_phone_no";s:13:"0421 16899073";s:20:"bigin_street_address";s:13:"Bahnhofsplatz";s:10:"bigin_city";s:6:"Bremen";s:11:"bigin_state";s:6:"Bremen";s:13:"bigin_country";s:11:"Deutschland";s:17:"bigin_postal_code";s:5:"28195";s:15:"mm_select_title";s:4:"Herr";s:6:"mm_gmb";s:0:"";s:11:"mm_nachname";s:5:"Noman";s:8:"mm_email";s:18:"mcpmbstu@gmail.com";s:15:"mm_autocomplete";s:60:"BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany";s:10:"mm_keyword";s:4:"Food";s:6:"submit";s:0:"";s:7:"address";s:46:"Bahnhofspl. 15 - 16, 28195 Bremen, Deutschland";}
+            [request_address] => BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany
+            [place_id] => ChIJVb4Iw9SFZEERZ7tQjdFjIWE
+            [falcon_place_return] => O:8:"stdClass":9:{s:8:"place_id";s:27:"ChIJVb4Iw9SFZEERZ7tQjdFjIWE";s:3:"lat";d:53.082687799999995;s:3:"lng";d:8.813533;s:4:"name";s:28:"BURGER KING Deutschland GmbH";s:7:"address";s:42:"Bahnhofspl. 15 - 16, 28195 Bremen, Germany";s:3:"sab";b:0;s:8:"map_link";s:95:"https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x416485d4c308be55:0x612163d18d50bb67";s:6:"rating";s:3:"3.2";s:7:"reviews";i:1171;}
+            [lat_lng] => a:1:{i:0;a:2:{s:3:"lat";s:8:"53.08269";s:3:"lng";s:7:"8.81353";}}
+            [file_name] => falconPlace_g91nkl.json
+            [genareted_image] => generated_image/phantom_cwj6ub_falconPlace_g91nkl.png
+            [token] => c6e45846672fc4736c89117e29e40c43
+            [count] => 0
+            [status] => 0
+            [created] => 2024-04-21 19:58:45
+        )
+
+)
+
+[2024-04-21 21:22:56] Find Requested Basic Data: Array
+(
+    [url] => https://itconsultingfirma.com/maptest/genarate_map.php/?path=dataset&falcon_file_name=falconPlace_g91nkl.json&lat=53.08269&lng=8.81353&requested_json=phantom_uwx99m_falconPlace_g91nkl.json
+    [clearCache] => 1
+    [renderType] => png
+    [zoomFactor] => 1
+    [resourceWait] => 15000
+    [resourceTimeout] => 35000
+    [maxWait] => 35000
+    [ioWait] => 2000
+    [waitInterval] => 1000
+    [overseerScript] => await page.waitForNavigation('domcontentloaded'); page.done()
+    [renderSettings] => Array
+        (
+            [quality] => 100
+            [viewport] => Array
+                (
+                    [height] => 670
+                    [width] => 640
+                )
+
+        )
+
+)
+
+[2024-04-21 21:22:56] PHANTOMJS JSON REQUEST URL: phantom_request/phantom_uwx99m_falconPlace_g91nkl.json
+[2024-04-21 21:23:01] Generated Image has been deleted successfully: 1
+[2024-04-21 21:23:01] Generated Image has been deleted successfully: 1
+[2024-04-21 21:23:01] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:23:01] Again check if requested user exists: Array
+(
+    [0] => stdClass Object
+        (
+            [id] => 278
+            [email] => mcpmbstu@gmail.com
+            [user_info] => a:17:{s:22:"mm_google_company_name";s:28:"BURGER KING Deutschland GmbH";s:14:"mm_primary_cat";s:10:"restaurant";s:10:"mm_web_url";s:61:"https://www.burgerking.de/store-locator/store/restaurant_8947";s:11:"mm_phone_no";s:13:"0421 16899073";s:20:"bigin_street_address";s:13:"Bahnhofsplatz";s:10:"bigin_city";s:6:"Bremen";s:11:"bigin_state";s:6:"Bremen";s:13:"bigin_country";s:11:"Deutschland";s:17:"bigin_postal_code";s:5:"28195";s:15:"mm_select_title";s:4:"Herr";s:6:"mm_gmb";s:0:"";s:11:"mm_nachname";s:5:"Noman";s:8:"mm_email";s:18:"mcpmbstu@gmail.com";s:15:"mm_autocomplete";s:60:"BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany";s:10:"mm_keyword";s:4:"Food";s:6:"submit";s:0:"";s:7:"address";s:46:"Bahnhofspl. 15 - 16, 28195 Bremen, Deutschland";}
+            [request_address] => BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany
+            [place_id] => ChIJVb4Iw9SFZEERZ7tQjdFjIWE
+            [falcon_place_return] => O:8:"stdClass":9:{s:8:"place_id";s:27:"ChIJVb4Iw9SFZEERZ7tQjdFjIWE";s:3:"lat";d:53.082687799999995;s:3:"lng";d:8.813533;s:4:"name";s:28:"BURGER KING Deutschland GmbH";s:7:"address";s:42:"Bahnhofspl. 15 - 16, 28195 Bremen, Germany";s:3:"sab";b:0;s:8:"map_link";s:95:"https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x416485d4c308be55:0x612163d18d50bb67";s:6:"rating";s:3:"3.2";s:7:"reviews";i:1171;}
+            [lat_lng] => a:1:{i:0;a:2:{s:3:"lat";s:8:"53.08269";s:3:"lng";s:7:"8.81353";}}
+            [file_name] => falconPlace_g91nkl.json
+            [genareted_image] => generated_image/phantom_cwj6ub_falconPlace_g91nkl.png
+            [token] => c6e45846672fc4736c89117e29e40c43
+            [count] => 0
+            [status] => 0
+            [created] => 2024-04-21 19:58:45
+        )
+
+)
+
+[2024-04-21 21:23:01] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:23:01] Update the genarated Image column after PhantomJS execution: generated_image/phantom_uwx99m_falconPlace_g91nkl.png
+[2024-04-21 21:23:01] DatabaseClass dbConnect() instantiated
+[2024-04-21 21:23:01] Updated Status
+[2024-04-21 21:23:01] Message has been sent
+[2024-04-21 21:23:01] File exists!: FOUND FILE: 1
+[2024-04-21 21:23:01] BIGIN Return data (MODE): Accounts < - > stdClass Object
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [code] => SUCCESS
+                    [details] => stdClass Object
+                        (
+                            [Modified_Time] => 2024-04-21T23:23:01+02:00
+                            [Modified_By] => stdClass Object
+                                (
+                                    [name] => info
+                                    [id] => 611448000000360001
+                                )
+
+                            [Created_Time] => 2024-04-21T23:23:01+02:00
+                            [id] => 611448000000719103
+                            [Created_By] => stdClass Object
+                                (
+                                    [name] => info
+                                    [id] => 611448000000360001
+                                )
+
+                            [$approval_state] => approved
+                        )
+
+                    [message] => record added
+                    [status] => success
+                )
+
+        )
+
+)
+
+[2024-04-21 21:23:01] BIGIN COMPANY ACCOUNT DATA INSERTED: 611448000000719103
+[2024-04-21 21:23:01] BIGIN Add Compan Information: SUCCESS
+[2024-04-21 21:23:02] BIGIN Return data (MODE): Contacts < - > stdClass Object
+(
+    [data] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [code] => SUCCESS
+                    [details] => stdClass Object
+                        (
+                            [Modified_Time] => 2024-04-21T23:23:01+02:00
+                            [Modified_By] => stdClass Object
+                                (
+                                    [name] => info
+                                    [id] => 611448000000360001
+                                )
+
+                            [Created_Time] => 2024-04-21T23:23:01+02:00
+                            [id] => 611448000000719108
+                            [Created_By] => stdClass Object
+                                (
+                                    [name] => info
+                                    [id] => 611448000000360001
+                                )
+
+                            [$approval_state] => approved
+                        )
+
+                    [message] => record added
+                    [status] => success
+                )
+
+            [1] => stdClass Object
+                (
+                    [code] => MANDATORY_NOT_FOUND
+                    [details] => stdClass Object
+                        (
+                            [api_name] => Last_Name
+                            [json_path] => $.data[1].Last_Name
+                        )
+
+                    [message] => required field not found
+                    [status] => error
+                )
+
+        )
+
+)
+
+[2024-04-21 21:23:02] BIGIN DATA INSERTED: 611448000000719108
+[2024-04-21 21:23:02] BIGIN Add Contact Information if no Company exists: SUCCESS
+[2024-04-21 21:23:02] Database Status updated and changes to 1
+[2024-04-21 21:30:39] DatabaseClass dbConnect() instantiated

@@ -1,0 +1,27 @@
+{
+    "code": 200,
+    "code_desc": false,
+    "success": true,
+    "message": false,
+    "parameters": {
+        "query": "Kentucky Fried Chicken, Hildesheimer Stra\u00dfe, Hannover, Deutschland"
+    },
+    "data": {
+        "count": 1,
+        "suggestions": [
+            {
+                "place_id": "ChIJe2ZCb_EKsEcRbcBaghSYk3o",
+                "lat": 52.325243199999996,
+                "lng": 9.7818378,
+                "name": "Kentucky Fried Chicken",
+                "address": "Hildesheimer Str. 418, 30519 Hannover, Germany",
+                "sab": false,
+                "map_link": "https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x47b00af16f42667b:0x7a939814825ac06d",
+                "rating": "3.5",
+                "reviews": 1689
+            }
+        ],
+        "ttr": 38
+    },
+    "unique_id": "falconPlace_d8gv59.json"
+}

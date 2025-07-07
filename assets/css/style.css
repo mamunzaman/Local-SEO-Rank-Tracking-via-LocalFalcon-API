@@ -1,0 +1,127 @@
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: block;
+    flex-wrap: inherit;
+}
+
+.mm_container_custom{
+    background-color: #f5f5f5;
+    border: 1px solid #007849;
+}
+
+.mm-btn-custom{
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    background: #007849;
+    color: white;
+    border: 1px solid #ffa300;
+    border-radius: 5px;
+    line-height: 2em;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 10px 20px;
+}
+
+.mm_custom_nav_bar{
+    background-color: #d9e8de;
+}
+
+.mm-info-text-weight-p{
+    font-weight: 600;
+}
+.error-icon-common{
+    width: 36px;
+    display: block;
+    height: 36px;
+    background: url("../images/error.png") center center no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+.successfull-icon-common{
+    width: 36px;
+    display: block;
+    height: 36px;
+    background: url("../images/done.png") center center no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+
+.submit-custom-falcon{
+    font-weight: 600;
+    line-height: 2em;
+    color: #fff;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #ffa300;
+    border-radius: 5px 5px 5px 5px;
+    background: #007849;
+}
+
+.submit-custom-falcon:hover{
+    background: rgba(0, 120, 73, 0.8);
+}
+
+.mm-container-fluid{
+    background: black;
+}
+
+.mm-container-fluid footer,
+.mm-container-fluid footer a{
+    color: white;
+}
+
+ul.common-footer-navigation{
+    max-width: 80%;
+}
+
+ul.common-footer-navigation a,
+.mm-custom-nav a{
+    font-size: 22px;
+    font-weight: 500;
+    color: white;
+    display: block;
+    /*border: 2px solid white;*/
+    padding: 10px 15px !important;
+    transition: .4s;
+    position: relative;
+}
+
+ul.common-footer-navigation a:hover,
+.mm-custom-nav a:hover{
+    color: white;
+}
+
+.mm-common-footer-nav a:before{
+    transition: opacity .2s, transform .4s;
+    content: "";
+    background: transparent;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    border: 3px solid #ffa300;
+    display: block;
+    position: absolute;
+    opacity: 0;
+    transform: scale(.75);
+
+}
+
+.mm-common-footer-nav a:hover:before{
+    transform: scale(1);
+    opacity: 1;
+}
+
+ul.common-footer-navigation li {
+    display: block;
+    /*line-height: 26px;*/
+}
+
+.mm-column-payment img{
+    width: 11%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mm-common-footer-nav li{
+
+}

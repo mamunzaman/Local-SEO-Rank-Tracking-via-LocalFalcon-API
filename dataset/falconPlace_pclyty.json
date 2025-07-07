@@ -1,0 +1,27 @@
+{
+    "code": 200,
+    "code_desc": false,
+    "success": true,
+    "message": false,
+    "parameters": {
+        "query": "BURGER KING Deutschland GmbH, Bahnhofsplatz, Bremen, Germany"
+    },
+    "data": {
+        "count": 1,
+        "suggestions": [
+            {
+                "place_id": "ChIJVb4Iw9SFZEERZ7tQjdFjIWE",
+                "lat": 53.082687799999995,
+                "lng": 8.813533,
+                "name": "BURGER KING Deutschland GmbH",
+                "address": "Bahnhofspl. 15 - 16, 28195 Bremen, Germany",
+                "sab": false,
+                "map_link": "https:\/\/www.google.com\/maps\/place\/data=!3m1!4b1!4m2!3m1!1s0x416485d4c308be55:0x612163d18d50bb67",
+                "rating": "3.2",
+                "reviews": 1171
+            }
+        ],
+        "ttr": 3
+    },
+    "unique_id": "falconPlace_pclyty.json"
+}

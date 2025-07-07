@@ -1,0 +1,19 @@
+{
+    "url": "https:\/\/itconsultingfirma.com\/maptest\/genarate_map.php\/?path=dataset&falcon_file_name=falconPlace_g91nkl.json&lat=53.08269&lng=8.81353&requested_json=phantom_cwj6ub_falconPlace_g91nkl.json",
+    "clearCache": true,
+    "renderType": "png",
+    "zoomFactor": "1",
+    "resourceWait": 15000,
+    "resourceTimeout": 35000,
+    "maxWait": 35000,
+    "ioWait": 2000,
+    "waitInterval": 1000,
+    "overseerScript": "await page.waitForNavigation('domcontentloaded'); page.done()",
+    "renderSettings": {
+        "quality": 100,
+        "viewport": {
+            "height": 670,
+            "width": 640
+        }
+    }
+}

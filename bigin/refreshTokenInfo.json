@@ -1,0 +1,11 @@
+{
+    "access_token": "1000.1baae9ac210a56b1505e914ccc256870.f3ac553387a6131cf85df281d5ed3d26",
+    "refresh_token": "1000.96a448cecbf925bfbff9a24d594f1dea.802084721199cf22ca56961c94f9247e",
+    "scope": "ZohoBigin.modules.ALL",
+    "api_domain": "https:\/\/www.zohoapis.eu",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "client_id": "1000.XWXTOERD3PF76DYP4X4HHHCR1FQM2L",
+    "client_secret": "4ee68e50f73b9b630f4625fb4ad224724a23db1c36",
+    "created": "2024-04-04 10:30:06"
+}
